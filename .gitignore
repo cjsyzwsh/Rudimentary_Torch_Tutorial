@@ -1,2 +1,10 @@
-/data
-/data_shenhao
+/data/cta/raw_data
+/data/cta/processed_large_data
+/data/graph_choose_buy/raw_data
+
+/data/mexico/raw_data
+/data/mexico/processed_large_data
+/data/nhts/raw_data
+/data/sandiego/raw_data
+/data/texas/raw_data
+
